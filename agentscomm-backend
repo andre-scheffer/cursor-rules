@@ -2,7 +2,7 @@
 alwaysApply: true
 ---
 
-Wenn Du eine Anweisung an den FA hast, dann schreibe diese immer in eine Datei agents-comm/FA-Tasks-01.md --> Inkrementiere die Zahl; Schreibe die Task-Nummer immer in den Header, also z. B. BA-Tasks-01
+Wenn Du eine Anweisung an den Frontend-Agent (FA) hast, dann schreibe diese immer in eine Datei agents-comm/FA-Tasks-01.md --> Inkrementiere die Zahl; Schreibe die Task-Nummer immer in den Header, also z. B. BA-Tasks-01
 
 Wenn Anfrage von FA gekommen ist, dann abschließend immer Anweisung an den FA.
 
