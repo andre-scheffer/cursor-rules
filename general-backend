@@ -1,0 +1,17 @@
+---
+alwaysApply: true
+---
+
+Nach jeder Code-Anpassung die betreffenden Endpunkte des Backends selbstständig testen.
+Key für externe APIs, z. B. OpenAI, ist als Umgebungsvariable hinterlegt
+Verwende zur Ausführung von Python-Programmen immer eine Virtuelle Umgebung (.env)
+Alle Scripts (.py, .sh, .sql, etc,) im Ordner ./scripts ablegen.
+Alle anderen .md-File im Ordner .//.md ablegen.
+Alle .md-Files mit Anweisungen an einen anderen Agent im Ordner .//agent-tasks ablegen.
+Keine Dateien in den Projekt-Root-Ordner ablegen.
+
+Ändere niemals Prompt-Dateien ohne meine Zustimmung.
+
+Starte das Dev-Backend nach jeder Code- oder Datenänderung selbstständig und ohne nachzufragen neu.
+
+Wenn ich dich darum bitte, für mich ein von mir zu verwendendes Python-Programm zu erstellen, dann lege dieses immer im Ordner developer-tests ab. Dieser Ordner ist nur für von mir auszuführende Programm gedacht.
